@@ -7,10 +7,10 @@ display:flex;
 justify-content:center;
 align-items:center;
 min-height:100vh;
-background-color:aquamarine
+background-color:#C37D92;
 }
 .container{
-    background-color: white;
+    background-color: azure;
     padding:2rem;
     border-radius:1rem;
     min-height:45vh;
